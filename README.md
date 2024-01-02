@@ -10,3 +10,9 @@
 - **Sr Business Analyst, Office of the CIO**, Ascension, 2019 - 2021
 - **Business Analyst**, Ascension, 2015 - 2019
 - **Database Administrator**, Ascension, 2006 - 2019
+
+### Certificates
+- **Google Business Intelligence Professional**, Coursera, 2023
+- **Digital Transformation and Platforms**, Dartmouth College, 2022
+- **Big Data** (graduate certificate), Maryville University, 2021
+- **Machine Learning** (graduate certificate), Maryville University, 2021
